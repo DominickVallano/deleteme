@@ -7,7 +7,9 @@
  *   RedBluePPM OutFileName numRows numCols
  * 
  *   Here our program takes in an outfile name, and two arguments for
- *   the rows and columns for the size of the image to produce. 
+ *   the rows and columns for the size of the image to produce.
+
+ * This is a comment to be submitted back to github!
 */ 
 
 int main(int argc,    // This is the number of things passed into this function.  
